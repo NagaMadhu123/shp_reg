@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479349071365",
+    "project_id": "madhu-e18bb",
+    "storage_bucket": "madhu-e18bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479349071365:android:9ac5564a0b13960d68866c",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479349071365-emmvmo149ocqjjfe1jqseppfef4obqdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-86ybCTgw1AFD0UNN0N7dOfcBYLBkvYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479349071365-emmvmo149ocqjjfe1jqseppfef4obqdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
